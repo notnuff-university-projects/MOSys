@@ -1,0 +1,3 @@
+[submodule "lab3"]
+	path = lab3
+	url = git@github.com:notnuff-university-projects/mos-lab3.git
